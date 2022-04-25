@@ -1,7 +1,11 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/gocrazygh/test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+https://github.com/gocrazygh/test/releases/download/v0.2.0-alpha/main.exe
+
 https://github.com/gocrazygh/test/archive/refs/tags/v0.2.0-alpha.zip
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
